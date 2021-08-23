@@ -103,7 +103,7 @@ You can add HTML code dynamically via JS (directly before the initialization), o
 
 				<button class="pswp__button pswp__button--close" title="Close (Esc)"></button>
 
-				<button class="pswp__button pswp__button--share" title="Share"></button>
+				<button class="pswp__button pswp__button--download" title="Share"></button>
 
 				<button class="pswp__button pswp__button--fs" title="Toggle fullscreen"></button>
 

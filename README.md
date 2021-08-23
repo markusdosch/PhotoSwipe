@@ -1,3 +1,6 @@
+# Modifications
+- Changing `--share` to `--download`. Why? Because some adblockers block elements with `--share` in class name (as part of their "Block annoyances" feature)
+
 # PhotoSwipe Repository 
 
 [![Build Status](https://travis-ci.org/dimsemenov/PhotoSwipe.svg)](https://travis-ci.org/dimsemenov/PhotoSwipe) 

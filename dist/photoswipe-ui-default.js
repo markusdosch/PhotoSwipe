@@ -436,7 +436,7 @@ var PhotoSwipeUI_Default =
 			} 
 		},
 		{ 
-			name: 'button--share', 
+			name: 'button--download', 
 			option: 'shareEl',
 			onInit: function(el) { 
 				_shareButton = el;
